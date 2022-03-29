@@ -1,1 +1,1 @@
-# Gaming_Arena.github.io
+# gaming_arena.github.io
